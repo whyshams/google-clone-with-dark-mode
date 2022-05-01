@@ -1,4 +1,4 @@
-### `Project Hosted @  ` https://google-clone-by-shams.netlify.app/search
+### `Project Hosted @  ` https://google-clone-by-shams.netlify.app
 
 
 # Getting Started with Create React App
